@@ -52,3 +52,5 @@ cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
 155.133.252.19
 155.133.252.67
+155.133.252.27
+155.133.252.26
