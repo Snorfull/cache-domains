@@ -50,8 +50,5 @@ update1.csgo.wmsj.cn
 st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
-162-254-198-104.valve.net
 155.133.252.19
-162-254-198-15.valve.net
 155.133.252.67
-162-254-198-81.valve.net
