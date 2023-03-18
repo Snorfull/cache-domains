@@ -53,3 +53,7 @@ steamcdn-a.akamaihd.net
 162-254-198-104.valve.net
 155.133.252.19
 arn09s23-in-f14.1e100.net
+162-254-198-15.valve.net
+155.133.252.67
+a95-100-141-15.deploy-static.akamaitechnologies.com
+a184-86-60-65.deploy-static.akamaitechnologies.com
