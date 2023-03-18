@@ -52,7 +52,6 @@ cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
 162-254-198-104.valve.net
 155.133.252.19
-arn09s23-in-f14.1e100.net
 162-254-198-15.valve.net
 155.133.252.67
 162-254-198-81.valve.net
