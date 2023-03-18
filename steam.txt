@@ -57,3 +57,4 @@ arn09s23-in-f14.1e100.net
 155.133.252.67
 a95-100-141-15.deploy-static.akamaitechnologies.com
 a184-86-60-65.deploy-static.akamaitechnologies.com
+162-254-198-81.valve.net
